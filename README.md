@@ -2,5 +2,5 @@
 Springboot kafka demo
 
 ### PRE:
-- Zookepper setup
+- Zookeeper setup
 - Kafka server steup installed
